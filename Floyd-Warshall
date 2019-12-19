@@ -1,4 +1,4 @@
-// Floyd-Warshall
+// Floyd-Warshall(Python)
 
 def FloydWarshall(G):
     n = len(G)
